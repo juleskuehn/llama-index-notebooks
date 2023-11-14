@@ -1,0 +1,15 @@
+llama-index
+openai
+psycopg2-binary
+sqlalchemy
+llama-hub
+wandb
+pypdf
+python-dotenv
+spacy
+nest-asyncio
+pandas
+matplotlib
+sqlalchemy[asyncio]
+pgvector
+asyncpg
